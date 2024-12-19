@@ -37,7 +37,7 @@ For an in-depth explanation of this model, see the [report](report.pdf).
 ### 2. MU-Net1: Single-stream Motion Detection Using Semantic Segmentation
 A U-Net-like architecture for motion detection, leveraging ResNet-18 as the backbone. It uses encoder-decoder modules with skip connections to accurately segment moving objects.
 
-![MU-Net1 Model Architecture](images/munet_architecture.png)
+![MU-Net1 Model Architecture](docs/images/munet_architecture.png)
 
 For more details about MU-Net1, refer to the [report](report.pdf).
 
