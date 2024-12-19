@@ -1,0 +1,8 @@
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000000.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000001.jpg veryShort/CUHK_Square/input/in000001.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000002.jpg veryShort/CUHK_Square/input/in000002.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000003.jpg veryShort/CUHK_Square/input/in000003.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000004.jpg veryShort/CUHK_Square/input/in000004.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000005.jpg veryShort/CUHK_Square/input/in000005.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000006.jpg veryShort/CUHK_Square/input/in000006.jpg
+veryShort/CUHK_Square/input/in000000.jpg veryShort/CUHK_Square/input/in000007.jpg veryShort/CUHK_Square/input/in000007.jpg

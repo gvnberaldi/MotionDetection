@@ -1,0 +1,8 @@
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000000.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000001.jpg veryShort/pedestrians/input/in000001.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000002.jpg veryShort/pedestrians/input/in000002.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000003.jpg veryShort/pedestrians/input/in000003.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000004.jpg veryShort/pedestrians/input/in000004.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000005.jpg veryShort/pedestrians/input/in000005.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000006.jpg veryShort/pedestrians/input/in000006.jpg
+veryShort/pedestrians/input/in000000.jpg veryShort/pedestrians/input/in000007.jpg veryShort/pedestrians/input/in000007.jpg

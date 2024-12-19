@@ -1,0 +1,6 @@
+C:\Users\Utente\Documents\University\Magistrale\Secondo Anno - 2023 - 2024\Secondo Semetre - ERASMUS TU Wien\Scene Understanding\Assignments\Motion Detection\Deep Learning Approach\..\common_utils\..\datasets\CD2014\dataset
+CDNet_2014
+baseline
+highway
+1
+TA

@@ -1,0 +1,6 @@
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000000.jpg
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000001.jpg veryShort/TwoLeaveShop1cor/input/in000001.jpg
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000002.jpg veryShort/TwoLeaveShop1cor/input/in000002.jpg
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000003.jpg veryShort/TwoLeaveShop1cor/input/in000003.jpg
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000004.jpg veryShort/TwoLeaveShop1cor/input/in000004.jpg
+veryShort/TwoLeaveShop1cor/input/in000000.jpg veryShort/TwoLeaveShop1cor/input/in000005.jpg veryShort/TwoLeaveShop1cor/input/in000005.jpg

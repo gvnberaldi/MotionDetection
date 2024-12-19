@@ -1,0 +1,9 @@
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000000.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000001.jpg veryShort/MIT/input/in000001.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000002.jpg veryShort/MIT/input/in000002.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000003.jpg veryShort/MIT/input/in000003.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000004.jpg veryShort/MIT/input/in000004.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000005.jpg veryShort/MIT/input/in000005.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000006.jpg veryShort/MIT/input/in000006.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000007.jpg veryShort/MIT/input/in000007.jpg
+veryShort/MIT/input/in000000.jpg veryShort/MIT/input/in000008.jpg veryShort/MIT/input/in000008.jpg

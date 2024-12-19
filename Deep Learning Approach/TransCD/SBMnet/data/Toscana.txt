@@ -1,0 +1,6 @@
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000000.jpg
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000001.jpg veryShort/Toscana/input/in000001.jpg
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000002.jpg veryShort/Toscana/input/in000002.jpg
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000003.jpg veryShort/Toscana/input/in000003.jpg
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000004.jpg veryShort/Toscana/input/in000004.jpg
+veryShort/Toscana/input/in000000.jpg veryShort/Toscana/input/in000005.jpg veryShort/Toscana/input/in000005.jpg
